@@ -11,4 +11,4 @@ code --no-sandbox --user-data-dir /home/user/.vscode  .
 ```
 You will get a couple of warnings from VS Code because it thinks you are running the whole thing as root, but you can safely ignore those since you are only a fake root ;)
 
-## Happy coding
+## Happy coding and signing
